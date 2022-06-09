@@ -1,0 +1,13 @@
+body{
+    background-color: #575757;
+    font-family: Poppins, Arial, sans-serif;
+
+}
+#title{
+    text-align: left;
+    margin-top: -14px;
+    margin-left: -8px;
+}
+p{
+    font-size: 20px;
+}
